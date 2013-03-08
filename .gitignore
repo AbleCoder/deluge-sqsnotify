@@ -1,0 +1,6 @@
+.tox
+*.pyc
+/SQSNotify.egg-info
+/build
+/dist
+/docs/_build

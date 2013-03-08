@@ -1,0 +1,8 @@
+=========
+SQSNotify
+=========
+
+A Deluge_ notify plugin that sends messages to AWS SQS_.
+
+.. _SQS: http://aws.amazon.com/sqs/
+.. _Deluge: http://deluge-torrent.org/
